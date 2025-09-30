@@ -29,8 +29,7 @@ cd src
 python ./main.py
 ```
 This will connect the python script to coppelia simulator.
-
-Refer to the task documentation for further details. 
+ 
 
 ## Tests
 
